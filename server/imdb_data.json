@@ -1,0 +1,1319 @@
+{
+ "names": [
+  {
+   "nconst": "nm0000001",
+   "primaryName": "Fred Astaire",
+   "knownForTitles": "tt0050419,tt0053137,tt0072308,tt0031983"
+  },
+  {
+   "nconst": "nm0000002",
+   "primaryName": "Lauren Bacall",
+   "knownForTitles": "tt0038355,tt0037382,tt0117057,tt0071877"
+  },
+  {
+   "nconst": "nm0000003",
+   "primaryName": "Brigitte Bardot",
+   "knownForTitles": "tt0057345,tt0056404,tt0049189,tt0054452"
+  },
+  {
+   "nconst": "nm0000004",
+   "primaryName": "John Belushi",
+   "knownForTitles": "tt0072562,tt0080455,tt0077975,tt0078723"
+  },
+  {
+   "nconst": "nm0000005",
+   "primaryName": "Ingmar Bergman",
+   "knownForTitles": "tt0083922,tt0060827,tt0050986,tt0050976"
+  },
+  {
+   "nconst": "nm0000006",
+   "primaryName": "Ingrid Bergman",
+   "knownForTitles": "tt0077711,tt0036855,tt0038109,tt0034583"
+  },
+  {
+   "nconst": "nm0000007",
+   "primaryName": "Humphrey Bogart",
+   "knownForTitles": "tt0042593,tt0037382,tt0034583,tt0043265"
+  },
+  {
+   "nconst": "nm0000008",
+   "primaryName": "Marlon Brando",
+   "knownForTitles": "tt0078788,tt0047296,tt0068646,tt0070849"
+  },
+  {
+   "nconst": "nm0000009",
+   "primaryName": "Richard Burton",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000010",
+   "primaryName": "James Cagney",
+   "knownForTitles": "tt0029870,tt0042041,tt0035575,tt0055256"
+  },
+  {
+   "nconst": "nm0000011",
+   "primaryName": "Gary Cooper",
+   "knownForTitles": "tt0034167,tt0035896,tt0044706,tt0027996"
+  },
+  {
+   "nconst": "nm0000012",
+   "primaryName": "Bette Davis",
+   "knownForTitles": "tt0056687,tt0042192,tt0035140,tt0031210"
+  },
+  {
+   "nconst": "nm0000013",
+   "primaryName": "Doris Day",
+   "knownForTitles": "tt0045591,tt0053172,tt0049470,tt0048317"
+  },
+  {
+   "nconst": "nm0000014",
+   "primaryName": "Olivia de Havilland",
+   "knownForTitles": "tt0041452,tt0029843,tt0040806,tt0031381"
+  },
+  {
+   "nconst": "nm0000015",
+   "primaryName": "James Dean",
+   "knownForTitles": "tt0048545,tt0049261,tt0048028,tt0039123"
+  },
+  {
+   "nconst": "nm0000016",
+   "primaryName": "Georges Delerue",
+   "knownForTitles": "tt0069946,tt0091763,tt0096320,tt8847712"
+  },
+  {
+   "nconst": "nm0000017",
+   "primaryName": "Marlene Dietrich",
+   "knownForTitles": "tt0051201,tt0055031,tt0021156,tt0052311"
+  },
+  {
+   "nconst": "nm0000018",
+   "primaryName": "Kirk Douglas",
+   "knownForTitles": "tt0080736,tt0054331,tt0043338,tt0049456"
+  },
+  {
+   "nconst": "nm0000019",
+   "primaryName": "Federico Fellini",
+   "knownForTitles": "tt0050783,tt0053779,tt0056801,tt0071129"
+  },
+  {
+   "nconst": "nm0000020",
+   "primaryName": "Henry Fonda",
+   "knownForTitles": "tt0082846,tt0051207,tt0050083,tt0032551"
+  },
+  {
+   "nconst": "nm0000021",
+   "primaryName": "Joan Fontaine",
+   "knownForTitles": "tt0035751,tt0034248,tt0032976,tt0040536"
+  },
+  {
+   "nconst": "nm0000022",
+   "primaryName": "Clark Gable",
+   "knownForTitles": "tt0025316,tt0031381,tt0023382,tt0026752"
+  },
+  {
+   "nconst": "nm0000023",
+   "primaryName": "Judy Garland",
+   "knownForTitles": "tt0047522,tt0055031,tt0037059,tt0032138"
+  },
+  {
+   "nconst": "nm0000024",
+   "primaryName": "John Gielgud",
+   "knownForTitles": "tt0117631,tt0071877,tt0082031,tt0045943"
+  },
+  {
+   "nconst": "nm0000025",
+   "primaryName": "Jerry Goldsmith",
+   "knownForTitles": "tt0117731,tt0077269,tt0119488,tt0112715"
+  },
+  {
+   "nconst": "nm0000026",
+   "primaryName": "Cary Grant",
+   "knownForTitles": "tt0034248,tt0053125,tt0048728,tt0056923"
+  },
+  {
+   "nconst": "nm0000027",
+   "primaryName": "Alec Guinness",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000028",
+   "primaryName": "Rita Hayworth",
+   "knownForTitles": "tt0046076,tt0036723,tt0038559,tt0040525"
+  },
+  {
+   "nconst": "nm0000029",
+   "primaryName": "Margaux Hemingway",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000030",
+   "primaryName": "Audrey Hepburn",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000031",
+   "primaryName": "Katharine Hepburn",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000032",
+   "primaryName": "Charlton Heston",
+   "knownForTitles": "tt0067525,tt0070723,tt0049833,tt0052618"
+  },
+  {
+   "nconst": "nm0000033",
+   "primaryName": "Alfred Hitchcock",
+   "knownForTitles": "tt0053125,tt0052357,tt0054215,tt0040746"
+  },
+  {
+   "nconst": "nm0000034",
+   "primaryName": "William Holden",
+   "knownForTitles": "tt0043014,tt0047437,tt0074958,tt0046359"
+  },
+  {
+   "nconst": "nm0000035",
+   "primaryName": "James Horner",
+   "knownForTitles": "tt0090633,tt0120746,tt0499549,tt0120338"
+  },
+  {
+   "nconst": "nm0000036",
+   "primaryName": "Buster Keaton",
+   "knownForTitles": "tt0016332,tt0015324,tt0017925,tt0019421"
+  },
+  {
+   "nconst": "nm0000037",
+   "primaryName": "Gene Kelly",
+   "knownForTitles": "tt0043278,tt0041716,tt0053946,tt0045152"
+  },
+  {
+   "nconst": "nm0000038",
+   "primaryName": "Grace Kelly",
+   "knownForTitles": "tt0046874,tt0047396,tt0046912,tt0048728"
+  },
+  {
+   "nconst": "nm0000039",
+   "primaryName": "Deborah Kerr",
+   "knownForTitles": "tt0049408,tt0050105,tt0039192,tt0045793"
+  },
+  {
+   "nconst": "nm0000040",
+   "primaryName": "Stanley Kubrick",
+   "knownForTitles": "tt0066921,tt0062622,tt0072684,tt0093058"
+  },
+  {
+   "nconst": "nm0000041",
+   "primaryName": "Akira Kurosawa",
+   "knownForTitles": "tt0089881,tt0047478,tt0051808,tt0080979"
+  },
+  {
+   "nconst": "nm0000042",
+   "primaryName": "Alan Ladd",
+   "knownForTitles": "tt0039056,tt0046303,tt0035432,tt0038369"
+  },
+  {
+   "nconst": "nm0000043",
+   "primaryName": "Veronica Lake",
+   "knownForTitles": "tt0034240,tt0034881,tt0035432,tt0038369"
+  },
+  {
+   "nconst": "nm0000044",
+   "primaryName": "Burt Lancaster",
+   "knownForTitles": "tt0080388,tt0053793,tt0051036,tt0045793"
+  },
+  {
+   "nconst": "nm0000045",
+   "primaryName": "Bruce Lee",
+   "knownForTitles": "tt0068767,tt0070034,tt0068935,tt0067824"
+  },
+  {
+   "nconst": "nm0000046",
+   "primaryName": "Vivien Leigh",
+   "knownForTitles": "tt0031381,tt0044081,tt0033238,tt0034272"
+  },
+  {
+   "nconst": "nm0000047",
+   "primaryName": "Sophia Loren",
+   "knownForTitles": "tt0054749,tt0076085,tt0058335,tt0060121"
+  },
+  {
+   "nconst": "nm0000048",
+   "primaryName": "Peter Lorre",
+   "knownForTitles": "tt0033870,tt0022100,tt0036613,tt0034583"
+  },
+  {
+   "nconst": "nm0000049",
+   "primaryName": "Henry Mancini",
+   "knownForTitles": "tt0085101,tt0054698,tt0383216,tt0057413"
+  },
+  {
+   "nconst": "nm0000050",
+   "primaryName": "Groucho Marx",
+   "knownForTitles": "tt0019777,tt0026778,tt0023969,tt0028772"
+  },
+  {
+   "nconst": "nm0000051",
+   "primaryName": "James Mason",
+   "knownForTitles": "tt0047522,tt0053125,tt0084855,tt0056193"
+  },
+  {
+   "nconst": "nm0000052",
+   "primaryName": "Marcello Mastroianni",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000053",
+   "primaryName": "Robert Mitchum",
+   "knownForTitles": "tt0048424,tt0039689,tt0056197,tt0055824"
+  },
+  {
+   "nconst": "nm0000054",
+   "primaryName": "Marilyn Monroe",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000055",
+   "primaryName": "Alfred Newman",
+   "knownForTitles": "tt0065377,tt0056085,tt0042192,tt0049408"
+  },
+  {
+   "nconst": "nm0000056",
+   "primaryName": "Paul Newman",
+   "knownForTitles": "tt0084855,tt0257044,tt0054997,tt0061512"
+  },
+  {
+   "nconst": "nm0000057",
+   "primaryName": "David Niven",
+   "knownForTitles": "tt0074937,tt0052182,tt0061452,tt0057413"
+  },
+  {
+   "nconst": "nm0000058",
+   "primaryName": "Maureen O'Hara",
+   "knownForTitles": "tt0055277,tt0041149,tt0039628,tt0045061"
+  },
+  {
+   "nconst": "nm0000059",
+   "primaryName": "Laurence Olivier",
+   "knownForTitles": "tt0032976,tt0069281,tt0077269,tt0074860"
+  },
+  {
+   "nconst": "nm0000060",
+   "primaryName": "Gregory Peck",
+   "knownForTitles": "tt0038109,tt0056592,tt0077269,tt0046250"
+  },
+  {
+   "nconst": "nm0000061",
+   "primaryName": "Tyrone Power",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000062",
+   "primaryName": "Elvis Presley",
+   "knownForTitles": "tt0056023,tt0054692,tt0056585,tt0053848"
+  },
+  {
+   "nconst": "nm0000063",
+   "primaryName": "Anthony Quinn",
+   "knownForTitles": "tt0064952,tt0049456,tt0057831,tt0056172"
+  },
+  {
+   "nconst": "nm0000064",
+   "primaryName": "Edward G. Robinson",
+   "knownForTitles": "tt0036775,tt0021079,tt0038991,tt0040506"
+  },
+  {
+   "nconst": "nm0000065",
+   "primaryName": "Nino Rota",
+   "knownForTitles": "tt0056801,tt0071562,tt0068646,tt0063518"
+  },
+  {
+   "nconst": "nm0000066",
+   "primaryName": "Jane Russell",
+   "knownForTitles": "tt0045810,tt0044863,tt0043476,tt0043643"
+  },
+  {
+   "nconst": "nm0000067",
+   "primaryName": "Mikl\u00f3s R\u00f3zsa",
+   "knownForTitles": "tt0052618,tt0038109,tt0054847,tt0036775"
+  },
+  {
+   "nconst": "nm0000068",
+   "primaryName": "Randolph Scott",
+   "knownForTitles": "tt0029284,tt0056412,tt0026942,tt0051047"
+  },
+  {
+   "nconst": "nm0000069",
+   "primaryName": "Frank Sinatra",
+   "knownForTitles": "tt0052218,tt0045793,tt0048347,tt0056218"
+  },
+  {
+   "nconst": "nm0000070",
+   "primaryName": "Max Steiner",
+   "knownForTitles": "tt0031381,tt0034583,tt0036613,tt0040897"
+  },
+  {
+   "nconst": "nm0000071",
+   "primaryName": "James Stewart",
+   "knownForTitles": "tt0052561,tt0031679,tt0052357,tt0032904"
+  },
+  {
+   "nconst": "nm0000072",
+   "primaryName": "Elizabeth Taylor",
+   "knownForTitles": "tt0053318,tt0056937,tt0061184,tt0051459"
+  },
+  {
+   "nconst": "nm0000073",
+   "primaryName": "Shirley Temple",
+   "knownForTitles": ""
+  },
+  {
+   "nconst": "nm0000074",
+   "primaryName": "Gene Tierney",
+   "knownForTitles": "tt0037008,tt0035979,tt0039420,tt0037865"
+  },
+  {
+   "nconst": "nm0000075",
+   "primaryName": "Spencer Tracy",
+   "knownForTitles": "tt0047849,tt0053946,tt0055031,tt0061735"
+  },
+  {
+   "nconst": "nm0000076",
+   "primaryName": "Fran\u00e7ois Truffaut",
+   "knownForTitles": "tt0053198,tt0055032,tt0070460,tt0075860"
+  },
+  {
+   "nconst": "nm0000077",
+   "primaryName": "Franz Waxman",
+   "knownForTitles": "tt0032976,tt0034248,tt0043014,tt0026138"
+  }
+ ],
+ "titles": {
+  "tt0015324": {
+   "title": "Sherlock Jr.",
+   "avgRating": 8.2
+  },
+  "tt0016332": {
+   "title": "Seven Chances",
+   "avgRating": 7.8
+  },
+  "tt0017925": {
+   "title": "The General",
+   "avgRating": 8.2
+  },
+  "tt0019421": {
+   "title": "Steamboat Bill, Jr.",
+   "avgRating": 7.8
+  },
+  "tt0019777": {
+   "title": "The Cocoanuts",
+   "avgRating": 6.8
+  },
+  "tt0021079": {
+   "title": "Little Caesar",
+   "avgRating": 7.2
+  },
+  "tt0021156": {
+   "title": "Morocco",
+   "avgRating": 7.0
+  },
+  "tt0022100": {
+   "title": "M",
+   "avgRating": 8.3
+  },
+  "tt0023382": {
+   "title": "Red Dust",
+   "avgRating": 7.3
+  },
+  "tt0023969": {
+   "title": "Duck Soup",
+   "avgRating": 7.8
+  },
+  "tt0025316": {
+   "title": "It Happened One Night",
+   "avgRating": 8.1
+  },
+  "tt0026138": {
+   "title": "The Bride of Frankenstein",
+   "avgRating": 7.8
+  },
+  "tt0026778": {
+   "title": "A Night at the Opera",
+   "avgRating": 7.8
+  },
+  "tt0026942": {
+   "title": "Roberta",
+   "avgRating": 7.0
+  },
+  "tt0027996": {
+   "title": "Mr. Deeds Goes to Town",
+   "avgRating": 7.8
+  },
+  "tt0028772": {
+   "title": "A Day at the Races",
+   "avgRating": 7.5
+  },
+  "tt0029284": {
+   "title": "My Favorite Wife",
+   "avgRating": 7.3
+  },
+  "tt0029843": {
+   "title": "The Adventures of Robin Hood",
+   "avgRating": 7.9
+  },
+  "tt0029870": {
+   "title": "Angels with Dirty Faces",
+   "avgRating": 7.9
+  },
+  "tt0031210": {
+   "title": "Dark Victory",
+   "avgRating": 7.5
+  },
+  "tt0031381": {
+   "title": "Gone with the Wind",
+   "avgRating": 8.2
+  },
+  "tt0031679": {
+   "title": "Mr. Smith Goes to Washington",
+   "avgRating": 8.1
+  },
+  "tt0031983": {
+   "title": "The Story of Vernon and Irene Castle",
+   "avgRating": 6.9
+  },
+  "tt0032138": {
+   "title": "The Wizard of Oz",
+   "avgRating": 8.1
+  },
+  "tt0032551": {
+   "title": "The Grapes of Wrath",
+   "avgRating": 8.1
+  },
+  "tt0032904": {
+   "title": "The Philadelphia Story",
+   "avgRating": 7.9
+  },
+  "tt0032976": {
+   "title": "Rebecca",
+   "avgRating": 8.1
+  },
+  "tt0033238": {
+   "title": "Waterloo Bridge",
+   "avgRating": 7.7
+  },
+  "tt0033870": {
+   "title": "The Maltese Falcon",
+   "avgRating": 8.0
+  },
+  "tt0034167": {
+   "title": "Sergeant York",
+   "avgRating": 7.7
+  },
+  "tt0034240": {
+   "title": "Sullivan's Travels",
+   "avgRating": 7.9
+  },
+  "tt0034248": {
+   "title": "Suspicion",
+   "avgRating": 7.3
+  },
+  "tt0034272": {
+   "title": "That Hamilton Woman",
+   "avgRating": 7.2
+  },
+  "tt0034583": {
+   "title": "Casablanca",
+   "avgRating": 8.5
+  },
+  "tt0034881": {
+   "title": "I Married a Witch",
+   "avgRating": 7.1
+  },
+  "tt0035140": {
+   "title": "Now, Voyager",
+   "avgRating": 7.9
+  },
+  "tt0035432": {
+   "title": "This Gun for Hire",
+   "avgRating": 7.4
+  },
+  "tt0035575": {
+   "title": "Yankee Doodle Dandy",
+   "avgRating": 7.6
+  },
+  "tt0035751": {
+   "title": "The Constant Nymph",
+   "avgRating": 6.7
+  },
+  "tt0035896": {
+   "title": "For Whom the Bell Tolls",
+   "avgRating": 6.8
+  },
+  "tt0035979": {
+   "title": "Heaven Can Wait",
+   "avgRating": 7.4
+  },
+  "tt0036613": {
+   "title": "Arsenic and Old Lace",
+   "avgRating": 7.9
+  },
+  "tt0036723": {
+   "title": "Cover Girl",
+   "avgRating": 6.7
+  },
+  "tt0036775": {
+   "title": "Double Indemnity",
+   "avgRating": 8.3
+  },
+  "tt0036855": {
+   "title": "Gaslight",
+   "avgRating": 7.8
+  },
+  "tt0037008": {
+   "title": "Laura",
+   "avgRating": 7.9
+  },
+  "tt0037059": {
+   "title": "Meet Me in St. Louis",
+   "avgRating": 7.5
+  },
+  "tt0037382": {
+   "title": "To Have and Have Not",
+   "avgRating": 7.8
+  },
+  "tt0037865": {
+   "title": "Leave Her to Heaven",
+   "avgRating": 7.6
+  },
+  "tt0038109": {
+   "title": "Spellbound",
+   "avgRating": 7.5
+  },
+  "tt0038355": {
+   "title": "The Big Sleep",
+   "avgRating": 7.9
+  },
+  "tt0038369": {
+   "title": "The Blue Dahlia",
+   "avgRating": 7.1
+  },
+  "tt0038559": {
+   "title": "Gilda",
+   "avgRating": 7.6
+  },
+  "tt0038991": {
+   "title": "The Stranger",
+   "avgRating": 7.3
+  },
+  "tt0039056": {
+   "title": "Two Years Before the Mast",
+   "avgRating": -1
+  },
+  "tt0039123": {
+   "title": "Kraft Theatre",
+   "avgRating": 8.2
+  },
+  "tt0039192": {
+   "title": "Black Narcissus",
+   "avgRating": 7.8
+  },
+  "tt0039420": {
+   "title": "The Ghost and Mrs. Muir",
+   "avgRating": 7.8
+  },
+  "tt0039628": {
+   "title": "Miracle on 34th Street",
+   "avgRating": 7.9
+  },
+  "tt0039689": {
+   "title": "Out of the Past",
+   "avgRating": 8.0
+  },
+  "tt0040506": {
+   "title": "Key Largo",
+   "avgRating": 7.7
+  },
+  "tt0040525": {
+   "title": "The Lady from Shanghai",
+   "avgRating": 7.5
+  },
+  "tt0040536": {
+   "title": "Letter from an Unknown Woman",
+   "avgRating": 7.9
+  },
+  "tt0040746": {
+   "title": "Rope",
+   "avgRating": 7.9
+  },
+  "tt0040806": {
+   "title": "The Snake Pit",
+   "avgRating": 7.6
+  },
+  "tt0040897": {
+   "title": "The Treasure of the Sierra Madre",
+   "avgRating": 8.2
+  },
+  "tt0041149": {
+   "title": "Bagdad",
+   "avgRating": 5.3
+  },
+  "tt0041452": {
+   "title": "The Heiress",
+   "avgRating": 8.1
+  },
+  "tt0041716": {
+   "title": "On the Town",
+   "avgRating": 7.3
+  },
+  "tt0042041": {
+   "title": "White Heat",
+   "avgRating": 8.1
+  },
+  "tt0042192": {
+   "title": "All About Eve",
+   "avgRating": 8.2
+  },
+  "tt0042593": {
+   "title": "In a Lonely Place",
+   "avgRating": 7.9
+  },
+  "tt0043014": {
+   "title": "Sunset Blvd.",
+   "avgRating": 8.4
+  },
+  "tt0043265": {
+   "title": "The African Queen",
+   "avgRating": 7.7
+  },
+  "tt0043278": {
+   "title": "An American in Paris",
+   "avgRating": 7.2
+  },
+  "tt0043338": {
+   "title": "Ace in the Hole",
+   "avgRating": 8.1
+  },
+  "tt0043476": {
+   "title": "Double Dynamite",
+   "avgRating": 5.9
+  },
+  "tt0043643": {
+   "title": "His Kind of Woman",
+   "avgRating": 7.0
+  },
+  "tt0044081": {
+   "title": "A Streetcar Named Desire",
+   "avgRating": 7.9
+  },
+  "tt0044706": {
+   "title": "High Noon",
+   "avgRating": 8.0
+  },
+  "tt0044863": {
+   "title": "Macao",
+   "avgRating": 6.6
+  },
+  "tt0045061": {
+   "title": "The Quiet Man",
+   "avgRating": 7.7
+  },
+  "tt0045152": {
+   "title": "Singin' in the Rain",
+   "avgRating": 8.3
+  },
+  "tt0045591": {
+   "title": "Calamity Jane",
+   "avgRating": 7.2
+  },
+  "tt0045793": {
+   "title": "From Here to Eternity",
+   "avgRating": 7.6
+  },
+  "tt0045810": {
+   "title": "Gentlemen Prefer Blondes",
+   "avgRating": 7.1
+  },
+  "tt0045943": {
+   "title": "Julius Caesar",
+   "avgRating": 7.2
+  },
+  "tt0046076": {
+   "title": "Miss Sadie Thompson",
+   "avgRating": 5.9
+  },
+  "tt0046250": {
+   "title": "Roman Holiday",
+   "avgRating": 8.0
+  },
+  "tt0046303": {
+   "title": "Shane",
+   "avgRating": 7.6
+  },
+  "tt0046359": {
+   "title": "Stalag 17",
+   "avgRating": 8.0
+  },
+  "tt0046874": {
+   "title": "The Country Girl",
+   "avgRating": 7.3
+  },
+  "tt0046912": {
+   "title": "Dial M for Murder",
+   "avgRating": 8.2
+  },
+  "tt0047296": {
+   "title": "On the Waterfront",
+   "avgRating": 8.1
+  },
+  "tt0047396": {
+   "title": "Rear Window",
+   "avgRating": 8.5
+  },
+  "tt0047437": {
+   "title": "Sabrina",
+   "avgRating": 7.6
+  },
+  "tt0047478": {
+   "title": "Seven Samurai",
+   "avgRating": 8.6
+  },
+  "tt0047522": {
+   "title": "A Star Is Born",
+   "avgRating": 7.5
+  },
+  "tt0047849": {
+   "title": "Bad Day at Black Rock",
+   "avgRating": 7.7
+  },
+  "tt0048028": {
+   "title": "East of Eden",
+   "avgRating": 7.8
+  },
+  "tt0048317": {
+   "title": "Love Me or Leave Me",
+   "avgRating": 7.1
+  },
+  "tt0048347": {
+   "title": "The Man with the Golden Arm",
+   "avgRating": 7.3
+  },
+  "tt0048424": {
+   "title": "The Night of the Hunter",
+   "avgRating": 8.0
+  },
+  "tt0048545": {
+   "title": "Rebel Without a Cause",
+   "avgRating": 7.6
+  },
+  "tt0048728": {
+   "title": "To Catch a Thief",
+   "avgRating": 7.4
+  },
+  "tt0049189": {
+   "title": "...And God Created Woman",
+   "avgRating": 6.3
+  },
+  "tt0049261": {
+   "title": "Giant",
+   "avgRating": 7.6
+  },
+  "tt0049408": {
+   "title": "The King and I",
+   "avgRating": 7.4
+  },
+  "tt0049456": {
+   "title": "Lust for Life",
+   "avgRating": 7.3
+  },
+  "tt0049470": {
+   "title": "The Man Who Knew Too Much",
+   "avgRating": 7.4
+  },
+  "tt0049833": {
+   "title": "The Ten Commandments",
+   "avgRating": 7.9
+  },
+  "tt0050083": {
+   "title": "12 Angry Men",
+   "avgRating": 9.0
+  },
+  "tt0050105": {
+   "title": "An Affair to Remember",
+   "avgRating": 7.4
+  },
+  "tt0050419": {
+   "title": "Funny Face",
+   "avgRating": 7.0
+  },
+  "tt0050783": {
+   "title": "Nights of Cabiria",
+   "avgRating": 8.1
+  },
+  "tt0050976": {
+   "title": "The Seventh Seal",
+   "avgRating": 8.1
+  },
+  "tt0050986": {
+   "title": "Wild Strawberries",
+   "avgRating": 8.1
+  },
+  "tt0051036": {
+   "title": "Sweet Smell of Success",
+   "avgRating": 8.0
+  },
+  "tt0051047": {
+   "title": "The Tall T",
+   "avgRating": 7.3
+  },
+  "tt0051201": {
+   "title": "Witness for the Prosecution",
+   "avgRating": 8.4
+  },
+  "tt0051207": {
+   "title": "The Wrong Man",
+   "avgRating": 7.4
+  },
+  "tt0051459": {
+   "title": "Cat on a Hot Tin Roof",
+   "avgRating": 7.9
+  },
+  "tt0051808": {
+   "title": "The Hidden Fortress",
+   "avgRating": 8.1
+  },
+  "tt0052182": {
+   "title": "Separate Tables",
+   "avgRating": 7.4
+  },
+  "tt0052218": {
+   "title": "Some Came Running",
+   "avgRating": 7.3
+  },
+  "tt0052311": {
+   "title": "Touch of Evil",
+   "avgRating": 8.0
+  },
+  "tt0052357": {
+   "title": "Vertigo",
+   "avgRating": 8.3
+  },
+  "tt0052561": {
+   "title": "Anatomy of a Murder",
+   "avgRating": 8.0
+  },
+  "tt0052618": {
+   "title": "Ben-Hur",
+   "avgRating": 8.1
+  },
+  "tt0053125": {
+   "title": "North by Northwest",
+   "avgRating": 8.3
+  },
+  "tt0053137": {
+   "title": "On the Beach",
+   "avgRating": 7.1
+  },
+  "tt0053172": {
+   "title": "Pillow Talk",
+   "avgRating": 7.4
+  },
+  "tt0053198": {
+   "title": "The 400 Blows",
+   "avgRating": 8.1
+  },
+  "tt0053318": {
+   "title": "Suddenly, Last Summer",
+   "avgRating": 7.5
+  },
+  "tt0053779": {
+   "title": "La dolce vita",
+   "avgRating": 8.0
+  },
+  "tt0053793": {
+   "title": "Elmer Gantry",
+   "avgRating": 7.7
+  },
+  "tt0053848": {
+   "title": "G.I. Blues",
+   "avgRating": 6.1
+  },
+  "tt0053946": {
+   "title": "Inherit the Wind",
+   "avgRating": 8.1
+  },
+  "tt0054215": {
+   "title": "Psycho",
+   "avgRating": 8.5
+  },
+  "tt0054331": {
+   "title": "Spartacus",
+   "avgRating": 7.9
+  },
+  "tt0054452": {
+   "title": "La V\u00e9rit\u00e9",
+   "avgRating": 7.6
+  },
+  "tt0054692": {
+   "title": "Blue Hawaii",
+   "avgRating": 6.1
+  },
+  "tt0054698": {
+   "title": "Breakfast at Tiffany's",
+   "avgRating": 7.6
+  },
+  "tt0054749": {
+   "title": "Two Women",
+   "avgRating": 7.8
+  },
+  "tt0054847": {
+   "title": "El Cid",
+   "avgRating": 7.2
+  },
+  "tt0054997": {
+   "title": "The Hustler",
+   "avgRating": 8.0
+  },
+  "tt0055031": {
+   "title": "Judgment at Nuremberg",
+   "avgRating": 8.3
+  },
+  "tt0055032": {
+   "title": "Jules and Jim",
+   "avgRating": 7.7
+  },
+  "tt0055256": {
+   "title": "One, Two, Three",
+   "avgRating": 7.9
+  },
+  "tt0055277": {
+   "title": "The Parent Trap",
+   "avgRating": 7.2
+  },
+  "tt0055824": {
+   "title": "Cape Fear",
+   "avgRating": 7.7
+  },
+  "tt0056023": {
+   "title": "Girls! Girls! Girls!",
+   "avgRating": 5.5
+  },
+  "tt0056085": {
+   "title": "How the West Was Won",
+   "avgRating": 7.0
+  },
+  "tt0056172": {
+   "title": "Lawrence of Arabia",
+   "avgRating": 8.3
+  },
+  "tt0056193": {
+   "title": "Lolita",
+   "avgRating": 7.5
+  },
+  "tt0056197": {
+   "title": "The Longest Day",
+   "avgRating": 7.7
+  },
+  "tt0056218": {
+   "title": "The Manchurian Candidate",
+   "avgRating": 7.9
+  },
+  "tt0056404": {
+   "title": "Love on a Pillow",
+   "avgRating": 5.5
+  },
+  "tt0056412": {
+   "title": "Ride the High Country",
+   "avgRating": 7.4
+  },
+  "tt0056585": {
+   "title": "Tickle Me",
+   "avgRating": 5.8
+  },
+  "tt0056592": {
+   "title": "To Kill a Mockingbird",
+   "avgRating": 8.3
+  },
+  "tt0056687": {
+   "title": "What Ever Happened to Baby Jane?",
+   "avgRating": 8.0
+  },
+  "tt0056801": {
+   "title": "8\u00bd",
+   "avgRating": 8.0
+  },
+  "tt0056923": {
+   "title": "Charade",
+   "avgRating": 7.9
+  },
+  "tt0056937": {
+   "title": "Cleopatra",
+   "avgRating": 7.0
+  },
+  "tt0057345": {
+   "title": "Contempt",
+   "avgRating": 7.5
+  },
+  "tt0057413": {
+   "title": "The Pink Panther",
+   "avgRating": 7.1
+  },
+  "tt0057831": {
+   "title": "Zorba the Greek",
+   "avgRating": 7.6
+  },
+  "tt0058335": {
+   "title": "Marriage Italian Style",
+   "avgRating": 7.4
+  },
+  "tt0060121": {
+   "title": "Arabesque",
+   "avgRating": 6.5
+  },
+  "tt0060827": {
+   "title": "Persona",
+   "avgRating": 8.1
+  },
+  "tt0061184": {
+   "title": "Who's Afraid of Virginia Woolf?",
+   "avgRating": 8.0
+  },
+  "tt0061452": {
+   "title": "Casino Royale",
+   "avgRating": 5.0
+  },
+  "tt0061512": {
+   "title": "Cool Hand Luke",
+   "avgRating": 8.1
+  },
+  "tt0061735": {
+   "title": "Guess Who's Coming to Dinner",
+   "avgRating": 7.8
+  },
+  "tt0062622": {
+   "title": "2001: A Space Odyssey",
+   "avgRating": 8.3
+  },
+  "tt0063518": {
+   "title": "Romeo and Juliet",
+   "avgRating": 7.6
+  },
+  "tt0064952": {
+   "title": "The Secret of Santa Vittoria",
+   "avgRating": 7.3
+  },
+  "tt0065377": {
+   "title": "Airport",
+   "avgRating": 6.6
+  },
+  "tt0066921": {
+   "title": "A Clockwork Orange",
+   "avgRating": 8.3
+  },
+  "tt0067525": {
+   "title": "The Omega Man",
+   "avgRating": 6.4
+  },
+  "tt0067824": {
+   "title": "The Big Boss",
+   "avgRating": 6.9
+  },
+  "tt0068646": {
+   "title": "The Godfather",
+   "avgRating": 9.2
+  },
+  "tt0068767": {
+   "title": "Fist of Fury",
+   "avgRating": 7.2
+  },
+  "tt0068935": {
+   "title": "The Way of the Dragon",
+   "avgRating": 7.2
+  },
+  "tt0069281": {
+   "title": "Sleuth",
+   "avgRating": 8.0
+  },
+  "tt0069946": {
+   "title": "The Day of the Dolphin",
+   "avgRating": 6.0
+  },
+  "tt0070034": {
+   "title": "Enter the Dragon",
+   "avgRating": 7.6
+  },
+  "tt0070460": {
+   "title": "Day for Night",
+   "avgRating": 8.0
+  },
+  "tt0070723": {
+   "title": "Soylent Green",
+   "avgRating": 7.0
+  },
+  "tt0070849": {
+   "title": "Last Tango in Paris",
+   "avgRating": 6.9
+  },
+  "tt0071129": {
+   "title": "I Remember",
+   "avgRating": 7.9
+  },
+  "tt0071562": {
+   "title": "The Godfather Part II",
+   "avgRating": 9.0
+  },
+  "tt0071877": {
+   "title": "Murder on the Orient Express",
+   "avgRating": 7.3
+  },
+  "tt0072308": {
+   "title": "The Towering Inferno",
+   "avgRating": 7.0
+  },
+  "tt0072562": {
+   "title": "Saturday Night Live",
+   "avgRating": 8.0
+  },
+  "tt0072684": {
+   "title": "Barry Lyndon",
+   "avgRating": 8.1
+  },
+  "tt0074860": {
+   "title": "Marathon Man",
+   "avgRating": 7.4
+  },
+  "tt0074937": {
+   "title": "Murder by Death",
+   "avgRating": 7.3
+  },
+  "tt0074958": {
+   "title": "Network",
+   "avgRating": 8.1
+  },
+  "tt0075860": {
+   "title": "Close Encounters of the Third Kind",
+   "avgRating": 7.6
+  },
+  "tt0076085": {
+   "title": "A Special Day",
+   "avgRating": 8.1
+  },
+  "tt0077269": {
+   "title": "The Boys from Brazil",
+   "avgRating": 7.0
+  },
+  "tt0077711": {
+   "title": "Autumn Sonata",
+   "avgRating": 8.1
+  },
+  "tt0077975": {
+   "title": "National Lampoon's Animal House",
+   "avgRating": 7.4
+  },
+  "tt0078723": {
+   "title": "1941",
+   "avgRating": 5.8
+  },
+  "tt0078788": {
+   "title": "Apocalypse Now",
+   "avgRating": 8.5
+  },
+  "tt0080388": {
+   "title": "Atlantic City",
+   "avgRating": 7.3
+  },
+  "tt0080455": {
+   "title": "The Blues Brothers",
+   "avgRating": 7.9
+  },
+  "tt0080736": {
+   "title": "The Final Countdown",
+   "avgRating": 6.6
+  },
+  "tt0080979": {
+   "title": "Kagemusha",
+   "avgRating": 7.9
+  },
+  "tt0082031": {
+   "title": "Arthur",
+   "avgRating": 6.9
+  },
+  "tt0082846": {
+   "title": "On Golden Pond",
+   "avgRating": 7.6
+  },
+  "tt0083922": {
+   "title": "Fanny and Alexander",
+   "avgRating": 8.1
+  },
+  "tt0084855": {
+   "title": "The Verdict",
+   "avgRating": 7.7
+  },
+  "tt0085101": {
+   "title": "The Thorn Birds",
+   "avgRating": 7.9
+  },
+  "tt0089881": {
+   "title": "Ran",
+   "avgRating": 8.2
+  },
+  "tt0090633": {
+   "title": "An American Tail",
+   "avgRating": 6.9
+  },
+  "tt0091763": {
+   "title": "Platoon",
+   "avgRating": 8.1
+  },
+  "tt0093058": {
+   "title": "Full Metal Jacket",
+   "avgRating": 8.3
+  },
+  "tt0096320": {
+   "title": "Twins",
+   "avgRating": 6.1
+  },
+  "tt0112715": {
+   "title": "Congo",
+   "avgRating": 5.2
+  },
+  "tt0117057": {
+   "title": "The Mirror Has Two Faces",
+   "avgRating": 6.6
+  },
+  "tt0117631": {
+   "title": "Shine",
+   "avgRating": 7.7
+  },
+  "tt0117731": {
+   "title": "Star Trek: First Contact",
+   "avgRating": 7.6
+  },
+  "tt0119488": {
+   "title": "L.A. Confidential",
+   "avgRating": 8.2
+  },
+  "tt0120338": {
+   "title": "Titanic",
+   "avgRating": 7.9
+  },
+  "tt0120746": {
+   "title": "The Mask of Zorro",
+   "avgRating": 6.8
+  },
+  "tt0257044": {
+   "title": "Road to Perdition",
+   "avgRating": 7.7
+  },
+  "tt0383216": {
+   "title": "The Pink Panther",
+   "avgRating": 5.6
+  },
+  "tt0499549": {
+   "title": "Avatar",
+   "avgRating": 7.8
+  },
+  "tt8847712": {
+   "title": "The French Dispatch",
+   "avgRating": 7.2
+  }
+ }
+}
