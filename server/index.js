@@ -12,10 +12,6 @@ function logger (req, res, next) {
 }
 app.use(logger);
 
-app.get('/', (req, res) => {
-  res.sendFile('ui.html', { root: process.env.PWD });
-})
-
 app.get('/api/getNames/:pageid', (req, res) => {
   const page = parseInt(req.params.pageid);
   res.send(imdb.getNamePage(page));
