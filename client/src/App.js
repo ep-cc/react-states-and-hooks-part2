@@ -6,7 +6,7 @@ function App() {
 
   useEffect(() => {
     async function load() {
-      const response = await fetch('/api/getNames/1');
+      const response = await fetch('/api/users');
       const data = await response.json();
       setData(data);
     }
@@ -17,13 +17,9 @@ function App() {
 
   return (
     <div>
-      <h1>Movies and actors</h1>
-      { data === null &&
-        <div> Loading page </div>
-      }
-      { data &&
-        <div>{JSON.stringify(data)}</div>
-      }
+      <h1>Fake users</h1>
+      { data === null && <div> Loading animation... </div> }
+      { data && <div>{JSON.stringify(data)}</div> }
     </div>
   );
 }

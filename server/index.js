@@ -1,5 +1,6 @@
-import express from 'express';
-import { imdb } from './imdb.js';
+const express = require('express');
+const mongoose = require('mongoose');
+const UserModel = require('./db/user.model');
 
 
 const app = express();
@@ -12,20 +13,18 @@ function logger (req, res, next) {
 }
 app.use(logger);
 
-app.get('/', (req, res) => {
-  res.sendFile('ui.html', { root: process.env.PWD });
-})
+mongoose.connect('mongodb://localhost:27017/react-hooks-ws')
+  .then(con => console.log(`Connected to MongoDB ${con.connection.name}`));
 
-app.get('/api/getNames/:pageid', (req, res) => {
-  const page = parseInt(req.params.pageid);
-  res.send(imdb.getNamePage(page));
-})
-
-app.get('/api/getTitles/:knownFor', (req, res) => {
-  const knownFor = req.params.knownFor;
-  res.json(imdb.getTitles(knownFor));
-})
+app.get('/api/users', async (req, res, next) => {
+  try {
+    const users = await UserModel.find();
+    res.json(users);
+  } catch (error) {
+    next(error);
+  }
+});
 
 app.listen(port, () => {
-  console.log(`IMDB mini-API listening on port ${port}`)
-})
+  console.log(`User backend is listening on port ${port}`)
+});
