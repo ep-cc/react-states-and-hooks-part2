@@ -1,14 +1,34 @@
 import { useState, useEffect } from 'react';
 
 
+function User({shortName, url}) {
+  const [userInfo, setUserInfo] = useState(null);
+
+  useEffect(() => {
+    async function load() {
+      const response = await fetch(url);
+      const usersData = await response.json();
+      setUserInfo(usersData);
+    }
+
+    load();
+  }, [url]);
+
+  return (<div>
+    <h1>{shortName}</h1>
+    <div>{userInfo && JSON.stringify(userInfo)}</div>   
+  </div>);
+}
+
+
 function App() {
-  const [data, setData] = useState(null);
+  const [users, setUsers] = useState(null);
 
   useEffect(() => {
     async function load() {
       const response = await fetch('/api/users');
-      const data = await response.json();
-      setData(data);
+      const usersData = await response.json();
+      setUsers(usersData);
     }
 
     load();
@@ -18,8 +38,9 @@ function App() {
   return (
     <div>
       <h1>Fake users</h1>
-      { data === null && <div> Loading animation... </div> }
-      { data && <div>{JSON.stringify(data)}</div> }
+      {
+        users && users.map(user => <User shortName={user.shortName} url={user.url} />)
+      }
     </div>
   );
 }
